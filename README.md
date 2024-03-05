@@ -3,4 +3,4 @@ Times series price prediction of BTC using various statistical models and ML alg
 
 - Long Short-Term Memory (LSTM)
 - Gradient boosted decision trees, specifically using the XGBoost implementation
-- ARIMA modeling of BTC prices using Box-Cox transformations to overcome challenges concerning non-stationarity of untransformed BTC prices
+- ARIMA modeling of BTC prices using Box-Cox transformations to deal with non-stationarity challenges
